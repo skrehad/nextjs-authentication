@@ -41,9 +41,7 @@ const RegisterPage = () => {
 
   return (
     <div className="my-10">
-      <h1 className="text-center text-4xl font-bold mb-5">
-        Register <span className="text-teal-500">Now</span>
-      </h1>
+      <h1 className="text-center text-4xl font-bold mb-5">Register</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div>
           <Image
