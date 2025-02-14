@@ -106,9 +106,7 @@ const LoginPage = () => {
             </Link>
           </p>
 
-          <p className="text-center mt-6 text-sm text-gray-500">
-            Or Sign Up Using
-          </p>
+          <p className="text-center mt-6 text-sm text-gray-500">Or Sign Up</p>
 
           {/* Social Login Buttons */}
           <div className="flex justify-center gap-4 mt-4">
